@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #FFF4E0;
+    font-size: 20px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: gray;
+    width: 5%;
+
+}
+
+h1 {
+    margin: 0 0 0.3em 0;
+color: #66bfbf;
+font-size: 4em;
+padding-top: 0.5em;
+}
+
+h2{
+    color: #66bfbf;
+    margin: auto 0 1.5em 0;
+
+}
+
+samp{
+    color: purple;
+    font-weight: 900;
+}
+
+.circular{
+    padding: 0.4em;
+    width: 13em;
+    position: relative;
+    border-radius: 80px;
+}
+
+.science {
+    position: absolute;
+    width: 8em;
+    top: 10em;
+    left: 10em;
+}
+
+.sun {
+    position: absolute;
+    width: 8em;
+    top: 55em;
+    left: 10em;
+
+
+}
+
+.school {
+    position: absolute;
+    width: 8em;
+    top: 30em;
+    right: 10em;
+
+}
+
+
+
+h3{
+    color: #66bfbf;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+
+
+a:hover{
+    color: rgb(231, 44, 191)
+    ;
+}
+table{
+    border-style: solid;
+    border: 10em;
+    border-color:rgba(255,191,155,0.3);
+    background-color: rgba(255,191,155,0.3) ; 
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 1.2em;
+    border-spacing: 20px;
+    
+}
+table td{
+    padding: 1em; 
+}
